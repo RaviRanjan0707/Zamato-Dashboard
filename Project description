@@ -1,0 +1,57 @@
+🍽️ Zomato Sales & User Analytics Dashboard
+📊 Project Overview
+The Zomato Sales & User Analytics Dashboard is a Power BI-based visualization tool designed to analyze sales performance, user engagement, city-wise performance, 
+and ratings across various locations. This dashboard provides data-driven insights to optimize decision-making for food delivery services.
+
+🔍 Key Insights & Features
+
+📈 1. Sales & Order Analysis
+Total Sales Amount: 💰 987M
+Total Orders: 📦 150K
+Total Quantity Sold: 🍽️ 2M
+Sales Trends (2017-2020): Growth trends tracked over time.
+Sales by City: Identifies top-performing locations.
+
+🌍 2. City-Wise Performance
+Top Cities by Sales & Orders:
+📍 Electronic City, Bangalore
+📍 Old Gurgaon
+📍 Pune, Raipur, Noida, Delhi
+Ratings by City: Customer satisfaction levels per location.
+
+🍕 3. Food Category Performance
+Veg Orders: 🥗 156K
+Non-Veg Orders: 🍗 140K
+Other Categories: 14K
+
+📊 4. User Engagement & Retention
+Active Users: 👥 78K
+Total Users Count: 🏅 150K
+User Gains & Losses:
+New Users: 6.5K (Male) | 5.1K (Female)
+Lost Users: 18.8K (Male) | 14K (Female)
+
+⭐ 5. Ratings & Customer Satisfaction
+Total Ratings Collected: 🌟 148K
+
+City-Wise Customer Ratings Breakdown
+🎯 Business Benefits & Use Cases
+✅ Sales Performance Optimization – Identify high-revenue cities & trends.
+✅ User Engagement Tracking – Analyze customer retention & growth.
+✅ Customer Preferences – Understand demand for Veg vs Non-Veg food.
+✅ Ratings & Feedback Analysis – Improve service quality based on user sentiment.
+✅ City-Specific Insights – Allocate resources efficiently based on demand.
+
+⚡ Technology Stack
+Power BI – Data visualization & dashboard creation.
+Excel/PDF Reports – Data sources & structured reports.
+SQL (if applicable) – Data extraction & processing.
+
+🚀 How to Use
+1️⃣ Open the Power BI dashboard with the dataset.
+2️⃣ Explore insights using filters (City, Time Period, Category, etc.).
+3️⃣ Utilize data to enhance business decision-making.
+
+📢 Conclusion
+This Zomato Sales & User Analytics Dashboard provides deep insights into sales trends, customer engagement, city performance, and order analysis,
+helping businesses boost sales, optimize user retention, and improve customer experience.
